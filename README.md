@@ -1,3 +1,41 @@
+# The order matters: Math, Rythm, Counting, Monads, Alphabets, Particles,Toy-Universe 
+
+Grant S. taught us that **numbers are actions** using the **optics** of Group Theory.
+
+Gottfried L. imagined a-priori-indivisible entities that have some information associated to them, with a mechanism described being similar to a mirror that has it's own essential bias, so it's able to "reflect" or "diffract" received information following a dynamic or predetermined set of computations, or rules. 
+
+Gottfried L. quote about Time:
+
+"... I hold space to be something merely relative, as time is, taking space to be an order of **co-existences**, as time is an order of successions. For space indicates... an order of things existing at the same time, considered just as existing together, without bringing in any details about what they are like. When we see a number of things together, one becomes aware of this order among them..."
+
+https://philosophy.stackexchange.com/questions/3134/is-spacetime-a-compound-substance-in-liebnizs-monadology?rq=1
+
+In our toy universe experiment, monads will be a name we can use for a special data-type with a set of computations and representations associated to it. 
+
+The other easy way to imagine it is as a representation of the value of a musical piece or as the analytic encoding of a set of time series that represent real phenomena. 
+
+ The representations will follow certain rules, to illustrate basic concepts of Group Theory expanding the notion from **numbers are actions**  to **numbers are particles**.
+
+ https://math.stackexchange.com/questions/4911385/irrational-numbers-as-periods-in-discrete-sequences-based-on-complex-exponenti
+
+ ## Real life context
+
+ Landauer's principle states that the minimum energy needed to erase one bit of information is proportional to the temperature at which the system is operating. Specifically, the energy needed for this computational task is given by:
+
+ $$E\geq k_BT\ln(2)$$
+
+ $E$ is the energy in Joules that is needed to erase one bit of information, is a theoretical lower bound. $k_B$ is the ubiquitous Boltzmann constant, $T$ here will be the temperature of the system in Kelvin, and the logarithm is there to remind us we are relating energy to base two representation of **information**. I'd love to completely understand how he arrived to this idea. So here we go. 
+
+ We are going to explore if it's possible to see this principle emerge from first principles. I won't be the one to judge if the presented exploration achieves that, it's just a fun horizon to imagine. Maybe it takes me many years to finally explain it to myself properly, but the emergence of these ideas is there, we just have to describe it. 
+
+
+# Back to math fiction: The story of Time and Symbols
+
+If we imagine the creation of the toy-universe as a process where there was some kind of "relationship" between two metaphysical entities we are going to use as main characters in our math fan fiction story , where one is Time as the fundamental structure where everything lives.Time is the precursor of motion and energy in this toy-universe model. 
+
+Time has many possible representations, and we are going to play with that idea of trying to imagine useful ways to represent the passage of time for different contexts.
+
+
 ## Rationality and periodicity - Continuos Time or Discrete time?
 
 Well, time is what it is. It might be a continuous phenomena, as a universal wave that is composed of individual packets of information or "monads". If you read about the idea of phonons, and then about the idea of photons all makes more sense. Vibrational energy typically needs a medium we feel familiar with, like air, electro-magnetic waves do not need (In principle) a medium to propagate, it's said they propagate through another mathematical object called space-time. 
