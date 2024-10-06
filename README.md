@@ -26,15 +26,15 @@ The other easy way to imagine it is as a representation of the value of a musica
 
  $E$ is the energy in Joules that is needed to erase one bit of information, is a theoretical lower bound. $k_B$ is the ubiquitous Boltzmann constant, $T$ here will be the temperature of the system in Kelvin, and the logarithm is there to remind us we are relating energy to base two representation of **information**. I'd love to completely understand how he arrived to this idea. So here we go. 
 
- We are going to explore if it's possible to see this principle emerge from first principles. I won't be the one to judge if the presented exploration achieves that, it's just a fun horizon to imagine. Maybe it takes me many years to finally explain it to myself properly, but the emergence of these ideas is there, we just have to describe it. 
+ $T$ is a property of the system considered as a macro-state, governed by the statistical-properties of the micro-states and their evolution. Here is when the idea of entropy is understood easily. The number of possible micro-states per macro-state increases with temperature. That seems to be a law of nature. 
 
+ We are going to explore if it's possible to see this principle emerge from first principles. I won't be the one to judge if the presented exploration achieves that, it's just a fun horizon to imagine. Maybe it takes me many years to finally explain it to myself properly, but the emergence of these ideas is there, we just have to describe it. 
 
 # Back to math fiction: The story of Time and Symbols
 
 If we imagine the creation of the toy-universe as a process where there was some kind of "relationship" between two metaphysical entities we are going to use as main characters in our math fan fiction story , where one is Time as the fundamental structure where everything lives.Time is the precursor of motion and energy in this toy-universe model. 
 
 Time has many possible representations, and we are going to play with that idea of trying to imagine useful ways to represent the passage of time for different contexts.
-
 
 ## Rationality and periodicity - Continuos Time or Discrete time?
 
